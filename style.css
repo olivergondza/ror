@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #f8f8f8;
+}
+
+.form {
+    display: table;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color: #eee;
+    border: solid 0 #ccc;
+    border-width: 0 0 1px 0;
+}
+
+.form form {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.form form input {
+    font-size: 130%;
+}
